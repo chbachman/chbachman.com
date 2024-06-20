@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>chbachman</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>chbachman</h1>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle" />
+      <label for="nav-toggle" class="nav-toggle-label">
+        <div class="hamburger">
+          <span></span>
+          <span></span>
+        </div>
+      </label>
+      <nav>
+        <ul class="nav-list">
+          <li><a href="/">Home</a></li>
+          <li><a href="/projects/">Projects</a></li>
+          <li><a href="/games/">Games</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <p>
+        So this site isn't great, and I'm well aware. I made it in an afternoon,
+        with a couple of goals:
+      </p>
+
+      <h2>No Javascript</h2>
+      <p>Unless you are building a web app, you don't need it.</p>
+
+      <h2>No Build System</h2>
+      <p>
+        I considered something like
+        <a href="https://tailwindcss.com">Tailwind CSS</a>, but I discarded the
+        idea for a couple of reasons. Mainly, I don't want a build system. A
+        build system involves maintenance, which is something I don't want. The
+        first version of this site involved a complicated SASS, Babel,
+        Angular.js compile step, but that broke pretty quickly. Text files are
+        forever.
+      </p>
+
+      <h2>Extremely Small</h2>
+      <p>
+        The front page of this site is less than 1kb. Not many sites can say
+        that. I expect that to grow as I make this site less ugly, but not by
+        much, ideally.
+      </p>
+
+      <h2>Entirely Custom</h2>
+      <p>
+        I'd rather not have to deal with the treadmill of CSS frameworks, so
+        this CSS is custom. It's not great CSS, but I'm not a CSS developer for
+        now.
+      </p>
+    </main>
+
+    <footer>
+      <p>Made with <3 by chbachman</p>
+    </footer>
+  </body>
+</html>
