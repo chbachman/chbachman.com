@@ -1,9 +1,10 @@
 +++
-title = "OSRS: Leagues V"
+title = "OSRS Leagues V: Raging Echoes"
 date = "2025-01-15"
 description = "Review of Oldschool Runescape: Leagues V"
 tags = [
 	"games",
+	"runescape",
 ]
 +++
 
