@@ -9,3 +9,7 @@ tags = [
 +++
 
 [Relics](/rs3/relics)
+
+[Combat](/rs3/combat)
+
+[Skills](/rs3/skills)

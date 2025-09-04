@@ -189,6 +189,83 @@ Agility sucks as a 99, and gp isn't the easiest thing in the world, so it's not 
   >
   > This also doesn't matter since there isn't anything super useful, and the Agility Cape does the same thing.
 
+# Combat Tier
+
+These are the relics for each of the 4 combat styles. This will have my thoughts for both the relic and the style in general in Leagues.
+
+## Shared Combat Bonuses
+
+- Generate 2x adrenaline with basic abilities
+  > This is a huge buff, as most of RS3 combat revolves around building adrenaline and then using it for powerful Ultimate/Threshold abilities. Double the adrenaline gain means double the Ultimates used, which is a huge deal.
+- Ability cooldowns reduced by 20% (including special attacks)
+  > This is also nice, as it lets you use more of your good abilities and less of the mediocre ones.
+- 100% hit chance with attacks
+  > In RS3, hitting 100% accuracy is achievable a lot of the time. With best in slot gear at each boss you can generally hit 100% accuracy. So this isn't as huge of a buff as in OSRS, but it's still really nice. In particular it lets you ignore what a boss is weak to 90% of the time.
+
+Each of these bonuses are about equally good for each combat style, and you are going to get them regardless of what combat style you pick. The relics below will only have the things that are unique, ignoring the above shared bonuses.
+
+## Barbarism (Melee)
+
+**Score: 8/10**
+
+Melee is in an interesting spot in Leagues. It's somewhat hard to get gear for, and it has the natural downside that you are more limited in where you can be (since you have to stand next to the thing you want to kill).
+
+The upside is that in this Leagues, Melee got the best Relic. Once you are geared, it's probably the easiest to stay alive in, entirely because of the healing benefit.
+
+### Details
+
+- Melee attack range increased by 1
+  > This is a huge buff to Melee's ability to hit multiple monsters. Normally if you use a 1 range weapon and hit everything around you, you can hit a 3x3 of creatures. With a 2 range weapon (halberds) you can hit a 5x5 of creatures around you. An attack range buff means you can hit a truly ridiculous amount of stuff around you, making this amazing for Slayer where you want to kill as much as possible as quickly as possible.
+- Melee base damage increased by +500
+  > In the early game this is a huge buff, probably doubling your damage. In the late game this is a ~20% buff, which is pretty good.
+- Melee base damage heals for 10% of damage dealt
+  > 10% Healing on all damage is a really good ability. It's about the equivalent of Soul Split, which is a game defining ability, used in just about every PvM encounter. Soul Split has a soft cap of around 300 health restored, which means it often heals much less than expected. If this doesn't have a similar cap it'll heal a truly ridiculous amount, making this one of the best perks.
+
+## Crit Happens (Magic)
+
+**Score: 8/10**
+
+Magic is difficult to gear up well, but it has the advantage of getting probably the best DPS boost when well setup.
+
+### Details
+
+- 95% chance to save runes in combat
+  > Prevents Magic from taking too much supplies.
+- Magic critical strike damage is increased by 50%
+  > Magic thrives on critical strikes, so building towards them means this is a pretty big damage buff.
+
+## Soulbourne (Necromancy)
+
+**Score: 6/10**
+
+Necromancy in the main game is the beginner's combat style. It has a really easy gear progression, meaning it takes much less effort and practice to do good damage in.
+
+This hold true in Leagues as well. If you aren't going to have a lot of time and just want an easy combat style, Necromancy is it. It doesn't get much more than the basic shared boosts, but it's good nonetheless.
+
+I will say that Necromancy, being so easy to gear does make gearing up less exciting than it would normally be.
+
+### Details
+
+- 95% chance to save ectoplasm and runes when casting abilities and incantations
+  > Prevents Necromancy from taking too much supplies.
+- Necromancy spirits are 25% larger and deal 25% more damage
+  > As far as I can tell, them being larger doesn't matter. The 25% more damage is obviously good.
+- Unlock all abilities from the necromancy well of souls talent tree
+  > This just speeds up acquiring some abilities, which is welcome.
+
+## Bombardment (Ranged)
+
+**Score: 3/10**
+
+Ranged is in an awkward spot. It's probably the most difficult combat style to gear, and while it's good it doesn't get any huge buffs from Leagues. I wouldn't recommend. However, I don't think any of the styles get something so crazy that you can't go with Ranged and have a good time.
+
+### Details
+
+- 95% chance to save ammunition in combat
+  > Prevents Ranged from taking too much supplies.
+- Single-target attacks also hit up to 9 enemies within 1 tile
+  > This doesn't matter much for most bosses (there being only 1 of them), but is really good for Slayer. The issue is that Slayer isn't hard, and so while this speeds it up, it's not huge.
+
 # Untiered
 
 ## Perkfection
